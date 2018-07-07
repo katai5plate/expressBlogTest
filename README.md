@@ -1,0 +1,2 @@
+# expressBlogTest
+mysqlとexpressで簡易ブログを出力するものを作ってみるテスト
