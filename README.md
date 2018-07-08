@@ -3,6 +3,8 @@ mysqlとexpressで簡易ブログを出力するものを作ってみるテス�
 
 # Install
 ```coffee
+git clone https://github.com/katai5plate/expressBlogTest
+cd expressBlogTest
 yarn install
 ```
 
