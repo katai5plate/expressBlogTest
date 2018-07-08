@@ -13,7 +13,7 @@ yarn install
   - user/pass: root
   - DB: BlogTest
   - Table: blog
-    - date(DATERIMW): 投稿日時
+    - date(DATETIME): 投稿日時
     - title(TEXT): 記事タイトル
     - content(TEXT): 記事HTML
     - 照合順序: utf8mb4_general_ci
